@@ -3,7 +3,6 @@
 <html>
 <head>
 </head>
-<body background="images/01.PNG">
-    <h1>Set the Background</h1>
+<body background="images/IMG_0611.jpeg">
 </body>
 </html>
